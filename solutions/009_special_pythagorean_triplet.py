@@ -1,5 +1,5 @@
 #
-# Eduardo Stuani Solution(s) for Project Euler Problem Number
+# Eduardo Stuani Solution(s) for Project Euler Problem Number 9
 # https://github.com/stuaninauts
 #
 # A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,

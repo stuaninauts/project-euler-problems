@@ -1,5 +1,5 @@
 #
-# Eduardo Stuani Solution(s) for Project Euler Problem Number
+# Eduardo Stuani Solution(s) for Project Euler Problem Number 15
 # https://github.com/stuaninauts
 #
 # Starting in the top left corner of a 2×2 grid, and only being able

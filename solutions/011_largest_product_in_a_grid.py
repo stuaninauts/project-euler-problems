@@ -1,5 +1,5 @@
 #
-# Eduardo Stuani Solution(s) for Project Euler Problem Number
+# Eduardo Stuani Solution(s) for Project Euler Problem Number 11
 # https://github.com/stuaninauts
 #
 # In the 20×20 grid below, four numbers along a diagonal line have been marked in red.
